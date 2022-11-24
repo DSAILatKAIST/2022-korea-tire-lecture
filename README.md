@@ -20,7 +20,7 @@
 ---
 ## Schedule
 - <font color='red'>Day 1</font> Machine Learning Basics
-  - Numpy Basics : [notebook](https://colab.research.google.com/drive/1GKkgsSCdg1dtznMmGBKIy1lGFKDWGaT3?usp=share_link)
+  - Numpy Basics : [notebook](https://colab.research.google.com/drive/1sDridnNBziWN-F8SVm1YSMTymWEqn3EN?usp=sharing)
   - Logistic Regression : [notebook](https://colab.research.google.com/drive/1GKkgsSCdg1dtznMmGBKIy1lGFKDWGaT3?usp=share_link)
  
 
