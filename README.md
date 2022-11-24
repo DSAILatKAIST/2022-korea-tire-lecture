@@ -10,7 +10,7 @@
 ## Prerequisites
 - Python and Numpy(by Stanford) : [notebook](https://colab.research.google.com/drive/16oppY6u8q3b1z22r__lEYD9UIsxLv9qz)
 - Pytorch(by Pytorch.kr)
-  - Tensor : [notebook]((https://colab.research.google.com/drive/1Hwonr-xXEWkGelClVstEuOffP_HLzTqG?usp=sharing)
+  - Tensor : [notebook](https://colab.research.google.com/drive/1Hwonr-xXEWkGelClVstEuOffP_HLzTqG?usp=sharing)
   - Dataset&DataLoader : [notebook](https://colab.research.google.com/drive/16lap5mgvpVfphmZS0p8scWEkE9ngpMAF)
   - AutoGrad : [notebook](https://colab.research.google.com/drive/1rekcI5kg_S4c_N2yJBeX_AdJNzqDDvAf)
 
